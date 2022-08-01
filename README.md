@@ -13,10 +13,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/tawhid37" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tawhid37" height="30" width="40" /></a>
-<a href="https://dev.to/tawhid37" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="tawhid37" height="30" width="40" /></a>
-<a href="https://twitter.com/mdtawhid37" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mdtawhid37" height="30" width="40" /></a>
-<a href="https://fb.com/tawhid.sultan.37" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tawhid.sultan.37" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tawhid37/" target="blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-tawhid37-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://twitter.com/mdtawhid37" target="blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-mdtawhid37-blue?style=flat-square&logo=twitter"></a>
+<a href="https://fb.com/tawhid.sultan.37" target="blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-tawhid.sultan.37-blue?style=flat-square&logo=facebook"></a>
+<a href="mailto:tawhidaiub37@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-tawhidaiub37@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
