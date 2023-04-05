@@ -41,10 +41,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&username=tawhid37" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=30&theme=github_dark&hide_border=true&username=tawhid37" height="150" alt="languages graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?locale=en&hide_title=false&layout=compact&card_width=320&theme=github_dark&hide_border=true&user=tawhid37&" height="150" alt="languages graph"  />
 </div>
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tawhid37&show_icons=true&locale=en&layout=compact" alt="tawhid37" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tawhid37&show_icons=true&locale=en" alt="tawhid37" /></p> -->
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tawhid37&" alt="tawhid37" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tawhid37&" alt="tawhid37" /></p> -->
